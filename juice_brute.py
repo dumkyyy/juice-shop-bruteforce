@@ -141,8 +141,7 @@ class JuiceShopExploitSuite:
         
         try:
             for email in emails:
-                if not self.running:
-                    
+                if not self.running:  
                     break
                 
                 
