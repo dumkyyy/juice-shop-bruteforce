@@ -142,7 +142,7 @@ class JuiceShopExploitSuite:
         try:
             for email in emails:
                 if not self.running:
-                    # print(f"{Fore.LIGHTYELLOW_EX}[!] Multi-user brute force interrupted by user{Style.RESET_ALL}")
+                    
                     break
                 
                 
