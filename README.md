@@ -18,7 +18,6 @@
     pip install -r requirements.txt
 
 
-
 ## Использование
 
 python3 juice_brute.py -u [URL цели] -p [PORT цели] -s/-m [Почту/файл с почтами] [Файл с паролями]
